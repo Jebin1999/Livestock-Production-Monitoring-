@@ -1,6 +1,4 @@
 
-
-```markdown
 # Livestock Production Monitoring with Live Weather Data
 
 This R Shiny app provides a **real-time monitoring solution** for **livestock production** (simulated milk yield) combined with **live weather data** fetched from the **Open-Meteo API**. The application simulates the milk yield data of dairy cows and displays it alongside live weather conditions, allowing farmers or agricultural scientists to investigate how environmental factors impact livestock productivity.
