@@ -80,9 +80,7 @@ Once the app is running:
 - **Weather at the location**: Displays the current temperature and wind speed for the specified location.
 - **Simulated Milk Yield Over Time**: Visualizes the milk yield trend over the past specified hours.
 
-## Example Screenshot
 
-![App Screenshot](path_to_your_screenshot)
 
 ## Future Improvements
 
